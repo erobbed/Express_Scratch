@@ -1,0 +1,16 @@
+{
+  "name": "expressscratch",
+  "version": "1.0.0",
+  "description": "test express structure with mongo rom scratch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "Ethan R. Roberts",
+  "license": "ISC"
+}
